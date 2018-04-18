@@ -18,10 +18,13 @@ NOTE!!:
 3.	Don’t forget to delete old checkpoints, to refresh variables and placholders..
 4.	SummaryWriter has changed in TensorFlow 1.0. You can use tf.summary.FileWriter
 
-Good tutorial links are:
+Good tutorial links to summaries by tensorboard:
+
 Code: https://github.com/MorvanZhou/tutorials/blob/master/tensorflowTUT/tf14_tensorboard/full_code.py
+
 Video: 
 1.	https://www.youtube.com/watch?v=FtxpjxFi2vk 
+
 another useful video: https://www.youtube.com/watch?v=YGQqh7mmWb4
 
 
