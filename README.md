@@ -30,10 +30,20 @@ Good tutorial links to summaries by tensorboard:
 
 Code: https://github.com/MorvanZhou/tutorials/blob/master/tensorflowTUT/tf14_tensorboard/full_code.py
 
-Video: 
-1.	https://www.youtube.com/watch?v=FtxpjxFi2vk 
+Video: https://www.youtube.com/watch?v=FtxpjxFi2vk 
 
-another useful video: https://www.youtube.com/watch?v=YGQqh7mmWb4
+another useful links: 
+
+https://www.tensorflow.org/programmers_guide/summaries_and_tensorboard
+
+https://www.youtube.com/watch?v=YGQqh7mmWb4
+
+https://docs.microsoft.com/en-us/cognitive-toolkit/using-tensorboard-for-visualization
+
+https://github.com/tensorflow/tensorflow/issues/8164
+
+https://www.youtube.com/watch?v=eBbEDRsCmv4&t=1105s
+
 
 
 Here is my anaconda promp:
