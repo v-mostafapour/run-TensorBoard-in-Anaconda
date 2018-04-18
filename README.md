@@ -32,4 +32,5 @@ Here is my anaconda promp:
 (C:\ProgramData\Anaconda3) C:\WINDOWS\system32>cd C:\Users\siege\Documents\Jupyter notebook\tutorials\Tensorboard
 
 (C:\ProgramData\Anaconda3) C:\Users\siege\Documents\Jupyter notebook\tutorials\Tensorboard>tensorboard --logdir=_example_tensorboard_graph --port=6006
+
 TensorBoard 1.7.0 at http://DESKTOP-S8PIH6B:6006 (Press CTRL+C to quit)
