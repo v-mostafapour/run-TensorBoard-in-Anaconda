@@ -12,7 +12,7 @@ In this example: (C:\ProgramData\Anaconda3) C:\WINDOWS\system32>)
 Then you are at : (C:\ProgramData\Anaconda3) C:\Users\siege\Documents\Jupyter notebook\tutorials\Tensorboard>_
 
 Type following command to run tensorboard:
->tensorboard –logdir=graph_folder_name  –port=6006   then press inter
+>tensorboard --logdir=graph_folder_name  --port=6006   then press inter
 
 In my example: >tensorboard --logdir=_example_tensorboard_graph  --port=6006
 
@@ -37,6 +37,7 @@ another useful video: https://www.youtube.com/watch?v=YGQqh7mmWb4
 
 
 Here is my anaconda promp:
+
 (C:\ProgramData\Anaconda3) C:\WINDOWS\system32>cd C:\Users\siege\Documents\Jupyter notebook\tutorials\Tensorboard
 
 (C:\ProgramData\Anaconda3) C:\Users\siege\Documents\Jupyter notebook\tutorials\Tensorboard>tensorboard --logdir=_example_tensorboard_graph --port=6006
